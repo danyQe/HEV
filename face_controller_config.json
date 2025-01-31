@@ -1,0 +1,13 @@
+{
+    "sensitivity": 2.9000000000000026,
+    "movement_range": 0.8700000000000006,
+    "nod_threshold": 0.035000000000000024,
+    "blink_threshold": 0.032999999999999974,
+    "safe_margin": 10,
+    "scroll_amount": 850,
+    "blink_duration_threshold": 0.2,
+    "left_click_interval": 1.0,
+    "smoothing_window": 2,
+    "mouth_open_threshold": 0.5,
+    "mouth_open_duration_threshold": 1.0
+}

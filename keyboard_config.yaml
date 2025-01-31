@@ -1,0 +1,9 @@
+window:
+  width: 1300
+  height: 350
+  title: "My Virtual Keyboard"
+  
+button:
+  width: 6
+  height: 2
+  font: ["Arial", 12]

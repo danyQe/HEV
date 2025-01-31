@@ -1,0 +1,10 @@
+opencv-python
+mediapipe
+PyAutoGUI
+SpeechRecognition
+tensorflow
+PyAudio
+pynput
+pywin32
+keyboard
+PyYAML
